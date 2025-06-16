@@ -1,20 +1,21 @@
-Here is the exact README file content from the PDF without any changes:
-
----
-
 # Podcast-Genie
 
 **Transform Podcasts Into Engaging, Shareable Stories**
 
+## 🔗 Live Demo
+
+[Visit Podcast-Genie Live](https://gitdocify.com/readme/Podcast-Genie)
+
 ## Table of Contents
 
-* Overview
-* Getting Started
+* [Live Demo](#-live-demo)
+* [Overview](#overview)
+* [Getting Started](#getting-started)
 
-  * Prerequisites
-  * Installation
-  * Usage
-  * Testing
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Testing](#testing)
 
 ## Overview
 
@@ -76,7 +77,3 @@ Podcast-genie uses the `{test_framework}` test framework. Run the test suite wit
 ```bash
 npm test
 ```
-
----
-
-Let me know if you'd like this exported as a `.md` file or need any formatting adjustments.

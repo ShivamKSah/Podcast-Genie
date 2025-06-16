@@ -4,7 +4,7 @@
 
 ## 🔗 Live Demo
 
-[Podcast-Genie]((https://gitdocify.com/readme/Podcast-Genie)(https://podcast-genie.vercel.app/))
+[Podcast - Genie](https://podcast-genie.vercel.app/)
 
 ## Table of Contents
 
